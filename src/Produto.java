@@ -7,7 +7,7 @@ public class Produto { // classe = molde
         this.preco = preco;
     }
 
-    void caracteristicas() { // método
+    void caracteristicas() {
         System.out.println("Isso é uma " + nome + " e o preço é de " + preco);
     }
 }
