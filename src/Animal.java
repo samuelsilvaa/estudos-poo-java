@@ -1,10 +1,12 @@
-public class Animal {
+public abstract class Animal {
     protected String nome;
 
     //constructor
     public Animal(String nome) {
         this.nome = nome;
     }
+
+    public abstract void somDoAnimal();
 
     public void comer() {
         System.out.println("O animal está comendo");
