@@ -1,3 +1,5 @@
+package poo;
+
 public class Cachorro extends Animal {
     private String raca;
 
@@ -13,7 +15,7 @@ public class Cachorro extends Animal {
 
     @Override // nome da ação precisa ser o mesmo que está na classe pai
     public void somDoAnimal() {
-        System.out.println("Cachorro: Au Au");
+        System.out.println("poo.Cachorro: Au Au");
     }
 
 

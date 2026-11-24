@@ -1,3 +1,5 @@
+package poo;
+
 public abstract class Animal {
     protected String nome;
 

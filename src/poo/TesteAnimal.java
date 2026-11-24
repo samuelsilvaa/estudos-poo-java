@@ -1,3 +1,5 @@
+package poo;
+
 public class TesteAnimal {
     public static void main(String[] args) {
 
@@ -19,7 +21,7 @@ public class TesteAnimal {
 
 
         // exercício de polimorfismo:
-        // 1. array de Animal
+        // 1. array de poo.Animal
         Animal[] animais = {
                 new Cachorro("rex", "pastor alemão"),
                 new Gato("mimi")

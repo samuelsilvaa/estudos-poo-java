@@ -1,3 +1,5 @@
+package poo;
+
 public class TesteProduto {
     public static void main(String[] args) {
 

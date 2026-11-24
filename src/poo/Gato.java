@@ -1,4 +1,4 @@
-// exercício de override
+package poo;// exercício de override
 
 public class Gato extends Animal {
 
@@ -8,7 +8,7 @@ public class Gato extends Animal {
 
     @Override
     public void somDoAnimal() {
-        System.out.println("Gato: miau");
+        System.out.println("poo.Gato: miau");
     }
 
 }

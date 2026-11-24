@@ -1,3 +1,5 @@
+package poo;
+
 public class TestePessoa {
         public static void main(String[] args) {
             Pessoa pessoa1 = new Pessoa("Samuel", 21);

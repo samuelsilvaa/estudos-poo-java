@@ -1,3 +1,5 @@
+package poo;
+
 public class Produto { // classe = molde
     String nome; // atributos
     double preco;
